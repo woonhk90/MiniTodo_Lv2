@@ -1,8 +1,8 @@
 import React from 'react';
 import styled from 'styled-components';
-import Header from '../header/Header'
-import Form from '../form/Form'
-import List from '../list/List'
+import Header from './Header'
+import Form from './Form'
+import List from './List'
 
 const Layout = () => {
     return(

@@ -1,5 +1,5 @@
 import React from 'react';
-import Todo from '../todo/Todo';
+import Todo from './Todo';
 import styled from 'styled-components'
 import {useSelector, useDispatch} from 'react-redux';
 

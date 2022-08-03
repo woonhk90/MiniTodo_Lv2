@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import { useDispatch } from "react-redux";
 
-import {addTodo} from '../../redux/modules/todos';
+import {addTodo} from '../redux/modules/todos';
 
 const Form = () => {
     const [val, setVal] = React.useState({

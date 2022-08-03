@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# [기능]
+
+<p style='align-center:center;'>
+  <img src='https://user-images.githubusercontent.com/99179343/182545629-27f93bb4-ed48-4647-b2e6-48d767182853.gif')
+</p>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
